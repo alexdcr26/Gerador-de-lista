@@ -1,0 +1,5 @@
+{
+  "name": "SAP Smart Input",
+  "description": "An innovative app to streamline data entry into SAP using AI. Paste text or upload documents to automatically generate structured tables for Purchase Requisitions and Work Orders.",
+  "requestFramePermissions": []
+}
